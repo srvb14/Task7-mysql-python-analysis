@@ -61,3 +61,9 @@ Output: Sales summary table and Revenue by Product bar chart.
 - Visualizing data using matplotlib
 - Understanding end-to-end data flow: Database → Python → Visualization
 
+
+ 🧩Repository Contents
+`task7_sales_summary_mysql.py` - # main script Notebook version
+`sales_chart_mysql` - # Visualization output
+`README.md` - # project documentation
+
